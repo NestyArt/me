@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Prueba</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        #contenido {
+            margin-top: 50px;
+        }
+        #imagen {
+            width: 300px;
+            height: auto;
+        }
+        #boton {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div id="contenido">
+        <h1>Bienvenido a mi página de prueba</h1>
+        <img id="imagen" src="https://m.media-amazon.com/images/I/51zU5QQYalL.jpg" alt="Imagen de ejemplo">
+        <p>En una carta dirigida a una persona a la que ama por encima de todas las demás, Violeta rememora devastadores desengaños amorosos y romances apasionados, momentos de pobreza y también de prosperidad, pérdidas terribles e inmensas alegrías.</p>
+        <a id="boton" href="https://www.amazon.es/hz/audible/mlp/mfpdp/B09QH8Z3N9?actionCode=AMSTM1450129210001&tag=amazing03cfd-21">Ir al sitio web de ejemplo</a>
+    </div>
+</body>
+</html>
